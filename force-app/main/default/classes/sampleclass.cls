@@ -6,7 +6,7 @@
  * @last modified by  : ChangeMeIn@UserSettingsUnder.SFDoc
 **/
 public with sharing class sampleclass {
-    public sampleclass() {
+    public sampleclass(){
         
     }
 }
